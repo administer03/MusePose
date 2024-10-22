@@ -6,3 +6,9 @@ __pycache__/
 .DS_Store
 pretrained_weights
 output
+
+assets/poses
+.bash_history
+.python_history
+.cache
+mmcv
